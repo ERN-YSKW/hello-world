@@ -2,4 +2,4 @@
 My First Repository (test)
 
 # Test
-日本語書ける？
+日本語書けているようで
